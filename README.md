@@ -1,5 +1,4 @@
 # Análise de perfil dos leads
----
 <div align="center">
 <img src="print_projeto2.png" width="750px" />
 </div>
